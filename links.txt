@@ -1,0 +1,38 @@
+https://medium.com/@lamscun/how-do-i-change-htmli-from-low-to-critical-your-email-box-is-safe-e7171efd88fe
+
+https://hackerone.com/reports/1888915
+
+https://hackerone.com/mtn_group?type=team
+
+https://hackerone.com/yahoo?type=team
+
+https://hacktivator.medium.com/top-5-awesome-bug-bounty-books-for-beginners-that-you-should-know-c8c3e02cdd95
+
+https://hackerone.com/hacktivity/overview
+
+https://huntr.dev/bounties/hacktivity
+
+
+https://owasp.org/www-community/vulnerabilities/
+
+https://infosecwriteups.com/the-art-of-monitoring-bug-bounty-programs-4a229085ae74?source=---------7----------------------- - 1
+
+https://infosecwriteups.com/bug-hunting-on-autopilot-free-vps-setup-1036bb1113a - 
+
+https://infosecwriteups.com/find-bugs-while-sleeping-get-phone-notifications-when-a-bug-is-found-b06ef95a6df7 - 1
+
+---
+
+https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610 - 1
+
+https://realm3ter.medium.com/using-dark-web-in-bug-bounty-3a9530fd454c - 1
+
+https://realm3ter.medium.com/analyzing-javascript-files-to-find-bugs-820167476ffe - 1
+
+https://geekflare.com/practice-hacking-legally/ - 1
+
+https://medium.com/@qaafqasim/40-google-dorks-to-find-bug-bounty-programs-unveiling-the-hidden-site-98e134762886
+
+https://medium.com/@qaafqasim/40-google-dorks-to-find-bug-bounty-programs-unveiling-the-hidden-site-98e134762886
+
+https://github.com/disclose/bug-bounty-platforms
